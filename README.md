@@ -6,3 +6,4 @@ Exercises from the [Statistics and R](https://www.edx.org/course/statistics-and-
 * Random Variables
 * Null distributions, p-values, confidence intervals
 * Normal distributions
+* Central limit theorem
