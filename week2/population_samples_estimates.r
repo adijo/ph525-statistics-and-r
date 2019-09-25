@@ -39,7 +39,3 @@ mean(Y)
 # Q6
 set.seed(1)
 abs((mean(y) - mean(x)) - (mean(Y) - mean(X)))
-
-
-
-

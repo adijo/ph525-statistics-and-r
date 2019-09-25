@@ -32,4 +32,3 @@ qs = seq(from=min(life_exp_1952), to=max(life_exp_1952), length=20)
 props = sapply(qs, prop)
 
 plot(qs, props)
-
